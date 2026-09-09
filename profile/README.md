@@ -1,5 +1,3 @@
-<div align="center">
-
 # HidrAmazônia
 
 **Hydrological and ecophysiological controls on Amazon forests' responses to drought and flooding**
