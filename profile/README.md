@@ -28,13 +28,12 @@ We work across two long-term "super-sites" — the **Ducke Reserve** (near Manau
 
 A French–Brazilian consortium co-led by **Sylvain Schmitt** (CIRAD) and **Flávia Costa** (INPA):
 
-- **CIRAD** — Forests & Societies (F&S) and Ecology of the Forest of French Guiana (EcoFoG)
-- **INRAE** — AMAP & EcoFoG
-- **CNRS** — Center for Research on Biodiversity and Environment (CRBE)
-- **IRD** — AMAP
-- **Université de Guyane** / **Université de Montpellier** — EcoFoG / AMAP
-- **INPA** — National Institute of Amazonian Research, Brazil
-- **UFAM** — Federal University of Amazonas, Brazil
+- **Forests & Societies**, CIRAD, France 🇫🇷
+- **INPA** — National Institute of Amazonian Research, Brazil 🇧🇷
+- **EcoFoG** — Ecology of the Forest of French Guiana, CIRAD, APT, UG, INRAE, French Guiana 🇬🇫
+- **AMAP** — Botany and modelling of plant architecture and vegetation, INRAE, IRD, UM 🇫🇷
+- **CRBE** — Center for Research on Biodiversity and Environment, CNRS, France 🇫🇷
+- **UFAM** — Federal University of Amazonas, Brazil 🇧🇷
 
 ## Get involved
 
